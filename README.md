@@ -12,8 +12,5 @@ git clone https://github.com/Kitchvx/dotfiles ~/.dotfiles/
 Make sure to run:
 ```bash
 sudo chown USER:USER .dotfiles/
-```
-
-```bash
 ./install.sh
 ```
