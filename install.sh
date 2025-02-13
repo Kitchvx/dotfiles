@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ln -s .bashrc ~/.bashrc
-ln -s .bash_profile ~/.bash_profile
+ln -s /home/$USER/.dotfiles/bash/.bashrc ~/.bashrc
+ln -s /home/$USER/.dotfiles/bash/.bash_profile ~/.bash_profile
 ln -s .xinitrc ~/.xinitrc
 ln -s .gitconfig ~/.gitconfig
