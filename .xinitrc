@@ -60,6 +60,10 @@ picom -f &
 # Wallpaper
 nitrogen --restore &
 
+# slstatus
+
+slstatus &
+
 # Restart DWM on Quit
 while true; do
 	dwm >/dev/null 2>&1
